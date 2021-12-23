@@ -1,0 +1,16 @@
+{
+  "id": "1416707",
+  "name": "cj",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4186487",
+      "name": "钱",
+      "font_class": "qian1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    }
+  ]
+}

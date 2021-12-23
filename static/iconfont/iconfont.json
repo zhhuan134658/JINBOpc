@@ -1,0 +1,51 @@
+{
+  "id": "1416707",
+  "name": "cj",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "845779",
+      "name": "钱",
+      "font_class": "qian4",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "845780",
+      "name": "钱 ",
+      "font_class": "qian",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "845783",
+      "name": "钱",
+      "font_class": "qian1",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1133840",
+      "name": "钻石",
+      "font_class": "zuanshi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1288189",
+      "name": "钱",
+      "font_class": "money",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6887983",
+      "name": "钱 金融 支付",
+      "font_class": "qian2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
